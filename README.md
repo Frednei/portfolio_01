@@ -1,14 +1,10 @@
-<h1 align="center"> Frednei Links </h1>
+## Frednei Links
 
-<p align="center">
-Minha primeira aplicação Web pela Rocketseat. <br/>
-</p>
+#### Minha primeira aplicação Web pela Rocketseat.
 
-<p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
-</p>
+  - Tecnologias 🚀
+  - Projeto 💻
+  - Licença
 
 ## 🚀 Tecnologias
 
