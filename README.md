@@ -18,7 +18,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Frednei Links é um agregador de links para usar como cartão de visitas online.
 
-- [Acesse o projeto finalizado, online](#)
+- [Acesse o projeto finalizado, online](https://frednei.github.io/portfolio_01/)
 
 ---
 
